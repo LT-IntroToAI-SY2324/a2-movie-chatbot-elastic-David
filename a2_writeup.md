@@ -12,9 +12,9 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
-
+    For step #2, this was the most difficult because I was unable to process or follow the percent procedure
 
 2. Explain how you could use the match function for extracting information from a movie database.
+    
 
 
